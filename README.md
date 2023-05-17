@@ -15,7 +15,7 @@ functionalities include:
 
 -Game ends in two cases:
 
-   -if the snake touches the borders
+       -if the snake touches the borders
    
-   -if the snake eats itself
+       -if the snake eats itself
 
