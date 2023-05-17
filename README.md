@@ -13,8 +13,5 @@ functionalities include:
 
 -Score card is also present.
 
--Game ends in two cases:
-
-       1-if the snake touches the borders
-       2-if the snake eats itself
+-Game ends in two cases:  1-if the snake touches the borders.   2-if the snake eats itself.
 
