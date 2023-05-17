@@ -14,6 +14,8 @@ functionalities include:
 -Score card is also present.
 
 -Game ends in two cases:
+
    -if the snake touches the borders
+   
    -if the snake eats itself
 
